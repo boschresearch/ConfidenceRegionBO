@@ -1,9 +1,9 @@
 # Confidence Region Bayesian Optimization
 
 This is the companion code for the benchmarking study reported in the paper
-*Cautious Bayesian Optimization for Scalable and Efficient Entropy Search*
-by Lukas Fröhlich et al. The paper can be found here
-https://arxiv.org/abs/2011.09445. The code allows the users to
+*Cautious Bayesian Optimization for Scalable and Efficient Policy Search*
+by Lukas Fröhlich et al., L4DC 2021. The paper can be found 
+[here](https://arxiv.org/abs/2011.09445). The code allows the users to
 reproduce and extend the results reported in the study. Please cite the
 above paper when reporting, reproducing or extending the results.
 
